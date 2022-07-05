@@ -1,6 +1,6 @@
 package main
 
-//usagd -> % go main.go (action option) --host (hostname)
+//usage -> % go main.go (action option) --host (hostname)
 // example usage ---> go run main.go ns --host google.com
 
 import (
