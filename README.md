@@ -8,6 +8,8 @@ usage$ go main.go (action option) --host (hostname)
 
 example usage$ go run main.go ns --host google.com
 
+chmod +x main.go 
+
 options are
 ns
 ip
